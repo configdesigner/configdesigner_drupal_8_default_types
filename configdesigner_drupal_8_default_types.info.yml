@@ -1,0 +1,22 @@
+name: 'configdesigner - Drupal 8 default types'
+description: 'Drupal 8 default Article & Page Content Types with all the default Views. This feature will allow you to compare your current site status compared with a Standard Drupal 8.x Installation Profile.'
+type: module
+core: 8.x
+dependencies:
+  - block_content
+  - ckeditor
+  - comment
+  - drupal_8_default
+  - editor
+  - field
+  - file
+  - filter
+  - image
+  - node
+  - path
+  - rdf
+  - taxonomy
+  - text
+  - user
+  - views
+version: 8.x-1.0
